@@ -5,5 +5,5 @@ O banco de dados escolhido para o projeto foi o mysql, banco relacional utilizad
 
 ## Diagrama Entidade Relacionamento
 <div align=center>
-<img src=documentos/der.jpg width=80% height=80% align=center></img>
+<img src=documentos/der-sprint2.jpg width=80% height=80% align=center></img>
 </div>
